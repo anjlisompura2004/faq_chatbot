@@ -1,0 +1,30 @@
+what is python|Python is a programming language used for web, AI and software development.
+what is ai|AI stands for Artificial Intelligence.
+what is machine learning|Machine Learning is a subset of AI that allows systems to learn from data.
+what is deep learning|Deep Learning is a type of machine learning using neural networks.
+what is nlp|Natural Language Processing helps computers understand human language.
+what is chatbot|A chatbot is a program that can talk with users and answer questions.
+what is data science|Data Science is the study of data to extract useful information.
+what is programming|Programming is writing instructions for computers.
+what is coding|Coding means writing code in a programming language.
+what is java|Java is a popular programming language used for applications.
+what is c++|C++ is a powerful programming language used in system software.
+what is html|HTML is used to create web pages.
+what is css|CSS is used to style web pages.
+what is javascript|JavaScript is used to make websites interactive.
+what is api|API allows different software to communicate with each other.
+what is database|A database stores data in an organized way.
+what is sql|SQL is used to manage databases.
+what is cloud computing|Cloud computing means storing data on the internet instead of local storage.
+what is github|GitHub is a platform to store and share code.
+what is version control|Version control tracks changes in code.
+what is debugging|Debugging is finding and fixing errors in code.
+what is software|Software is a set of instructions for a computer.
+what is hardware|Hardware is the physical parts of a computer.
+what is operating system|Operating system manages computer hardware and software.
+what is windows|Windows is an operating system developed by Microsoft.
+what is linux|Linux is an open-source operating system.
+what is compiler|Compiler converts code into machine language.
+what is interpreter|Interpreter executes code line by line.
+what is algorithm|Algorithm is a step-by-step solution to a problem.
+what is data structure|Data structure organizes data efficiently.
